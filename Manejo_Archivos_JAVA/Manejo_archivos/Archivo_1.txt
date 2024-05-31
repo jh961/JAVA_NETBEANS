@@ -1,0 +1,5 @@
+Informacion para la demostracion 
+de la creacion de un archivo de tesxto 
+
+
+12345 @
